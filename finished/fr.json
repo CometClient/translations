@@ -1,0 +1,127 @@
+{
+    "about": {
+      "support": {
+        "name": "Aide Comet"
+      },
+      "buttons": {
+        "tos": "Conditions d'Utilisation",
+        "faq": "FAQ",
+        "privacy": "Politique de Confidentialité",
+        "logs": "Ovrir les logs du Lanceur"
+      },
+      "folders": {
+        "fabric": "Mods Fabric",
+        "resource": "Packs de Ressources",
+        "forge": "Mods Forge",
+        "config": "Config MC"
+      },
+      "title": "À Propos"
+    },
+    "actions": {
+      "copied": "Copié",
+      "copy": "Copier"
+    },
+    "friends": {
+        "filter": {
+            "swear": "Essayez de ne pas insulter.",
+            "racist": "Ne faites pas de propos racistes",
+            "blocked": "Cette utilisateur vous a bloqué.",
+            "nsfw": "Cette discussion doit rester SFW (Sûr pour le travail.)"
+        },
+        "info": {
+            "sinvite": "Envoi réussi de l'invitation",
+            "rinvite": "voudrais jouer",
+            "lastseen": "Vu pour la dernière fois:",
+            "add": "Ajouter un ami:",
+            "blocked": "Vous avez bloquer cette utilisateur.",
+            "placeholder": "Essayez 'HS50'"
+        },
+        "title": "Social"
+    },
+    "mods": {
+        "buttons": {
+            "find": "Touver des Mods",
+            "add": "Ajouter ses Propres Mods",
+            "delete": "Supprimer",
+            "enable": "Activer",
+            "disable": "Désactiver",
+            "info": "Info"
+        },
+        "text": {
+            "by": "Par",
+            "downloads": "Téléchargements",
+            "version": "Versions",
+            "description": "Déscription",
+            "splaceholder": "Essayez 'Sodium'"
+        },
+        "title": "Mods"
+    },
+    "settings": {
+        "buttons": {
+            "path": "Réviser",
+            "full": "Pleine Écran",
+            "hide": "Cacher le Lanceur",
+            "open": "Garder le Lanceur Ouvert",
+            "manual": "Manuel",
+            "automatic": "Automatique",
+            "rpchide": "Cacher RPC",
+            "rpcshow": "Montrer RPC",
+            "exit": "Exit",
+            "save": "Sauvegarder les Modifications"
+    },
+    "headings": {
+        "dir": "Fichier",
+        "res": "Resolution",
+        "ram": "Attribution de RAM",
+        "launch": "Lancement",
+        "dmods": "Téléchargements des Dépendences",
+        "rpc": "RPC Discord",
+        "lang": "Langue"
+    },
+    "description": {
+        "dird": "Là où vos fichiers Minecraft sont",
+        "resd": "La taille quand le jeu est lancé",
+        "ramd": "Le montant de RAM que vous voulez attribuer",
+        "launchd": "Après le lancement du jeu, le lanceur devrait:",
+        "modsd": "Le paramètre pour auto le téléchargement automatique des dependences",
+        "rpcd": "Changez le paramètre pour cacher/montrer votre RPC",
+        "langd": "La langue dans laquelle vous voulez votre lanceur"
+    },
+    "prompts": {
+        "ramp": "Nous recommandont d'attribuer 4Go pour faire fonctionner le jeu.",
+        "ramps": "N'attribuez pas plus que ce que vous avez.",
+        "unsaved": "Vous sortez sans sauvergarder les modifications",
+        "unsaveds": "Par defaut, nous sauvegardons vos paramètres."
+    },
+    "title": "Paramètres"
+  },
+  "home": {
+    "buttons": {
+        "launch": "Lancer",
+        "launching": "Lancement",
+        "launched": "Fonctionnement"
+    },
+    "text": {
+        "main": "À quoi voulez-vous jouer ?",
+        "llaunch": "Dernièr lancement:",
+        "smodules": "Module séléctionné:"
+    },
+    "title": "Accueil"
+  },
+  "account": {
+    "selections": {
+        "select": "Sélectionner",
+        "selected": "Sélectionné"
+    },
+    "text": {
+        "add": "Ajouter un autre compte"
+    },
+    "title": "Sélecteur de compte"
+  },
+  "versions": {
+    "button": {
+        "launch": "Sauvergarder et Lancer"
+    },
+    "title": "Sélecteur de Version"
+  }
+}
