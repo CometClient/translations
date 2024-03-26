@@ -1,0 +1,128 @@
+{
+    "about": {
+      "support": {
+        "name": "Asistență"
+      },
+      "buttons": {
+        "tos": "ToS",
+        "faq": "FAQ",
+        "privacy": "Politica de confidențialitate",
+        "logs": "Deschide jurnalul aplicației de lansare"
+      },
+      "folders": {
+        "fabric": "Fabric Mods",
+        "resource": "Pachete de resurse",
+        "forge": "Forge Mods",
+        "config": "MC Config"
+      },
+      "title": "Despre"
+    },
+    "actions": {
+      "copied": "Copiat",
+      "copy": "Copiază"
+    },
+    "friends": {
+        "filter": {
+            "swear": "Te rog să nu înjuri!",
+            "racist": "Te rog să nu promovezi rasismul.",
+            "blocked": "Acest utilizator te-a blocat.",
+            "nsfw": "Vă rugăm să păstrați chatul SFW."
+        },
+        "info": {
+            "sinvite": "Ați trimis cu succes o invitație.",
+            "rinvite": "ar vrea să joace",
+            "lastseen": "Văzut ultima dată la:",
+            "add": "Adaugă un prieten",
+            "blocked": "Ai blocat acest utilizator.",
+            "placeholder": "Încearcă 'HS50'"
+        },
+        "title": "Social"
+    },
+    "mods": {
+        "buttons": {
+            "find": "Caută moduri",
+            "add": "Adaugă moduri",
+            "delete": "Șterge",
+            "enable": "Activează",
+            "disable": "Dezactivează",
+            "info": "Informații"
+        },
+        "text": {
+            "by": "De",
+            "downloads": "Descărcări",
+            "version": "Versiune",
+            "description": "Descriere",
+            "splaceholder": "Încearcă 'Sodium'"
+        },
+        "title": "Moduri"
+    },
+    "settings": {
+        "buttons": {
+            "path": "Analizează",
+            "full": "Ecran complet",
+            "hide": "Ascunde launcher-ul",
+            "open": "Ține launcher-ul deschis", 
+            "manual": "Manual",
+            "automatic": "Automat",
+            "rpchide": "Ascunde RPC-ul",
+            "rpcshow": "Arată RPC-ul",
+            "exit": "Ieși",
+            "save": "Salvează"
+    },
+    "headings": {
+        "dir": "Directory",
+        "res": "Rezoluție",
+        "ram": "Alocare RAM",
+        "launch": "Se deschide",
+        "dmods": "Descarcă dependințele",
+        "rpc": "Discord RPC",
+        "lang": "Limbă"
+    },
+    "description": {
+        "dird": "Locul în care sunt fișierele de Minecraft",
+        "resd": "Dimensiunea la care jocul este lansat",
+        "ramd": "Cantitatea de RAM pe care dorești să o aloci",
+        "launchd": "După pornirea jocului, launcher-ul ar trebui:",
+        "modsd": "Setarea pentru descărcarea automată a dependințelor",
+        "rpcd": "Modifică setarea pentru a ascunde/afișa RPC-ul",
+        "langd": "Limba în care îți dorești launcher-ul"
+    },
+    "prompts": {
+        "ramp": "Vă recomandăm să alocați cel puțin 4GB de RAM pentru a rula jocul.",
+        "ramps": "Nu aloca mai mult decât ai.",
+        "unsaved": "Ieși cu modificări nesalvate",
+        "unsaveds": "În mod implicit, îți salvăm setările."
+    },
+    "title": "Setări"
+  },
+  "home": {
+    "buttons": {
+        "launch": "Joacă",
+        "launching": "Se pregătește",
+        "launched": "Jocul rulează"
+    },
+    "text": {
+        "main": "Ce ai vrea să te joci?",
+        "llaunch": "Ultima lansare:",
+        "smodules": "Modul selectat:"
+    },
+    "title": "Acasă"
+  },
+  "account": {
+    "selections": {
+        "select": "Selectează",
+        "selected": "Selectat"
+    },
+    "text": {
+        "add": "Adaugă alt cont"
+    },
+    "title": "Selector de cont"
+  },
+  "versions": {
+    "button": {
+        "launch": "Salvează și joacă"
+    },
+    "title": "Selector de versiune"
+  }
+}
+  
