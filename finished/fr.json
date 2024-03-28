@@ -7,7 +7,7 @@
         "tos": "Conditions d'Utilisation",
         "faq": "FAQ",
         "privacy": "Politique de Confidentialité",
-        "logs": "Ovrir les logs du Lanceur"
+        "logs": "Ouvrir les logs du Lanceur"
       },
       "folders": {
         "fabric": "Mods Fabric",
@@ -26,7 +26,7 @@
             "swear": "Essayez de ne pas insulter.",
             "racist": "Ne faites pas de propos racistes",
             "blocked": "Cette utilisateur vous a bloqué.",
-            "nsfw": "Cette discussion doit rester SFW (Sûr pour le travail.)"
+            "nsfw": "Cette discussion doit rester SFW (Sûre pour le travail.)"
         },
         "info": {
             "sinvite": "Envoi réussi de l'invitation",
@@ -88,10 +88,10 @@
         "langd": "La langue dans laquelle vous voulez votre lanceur"
     },
     "prompts": {
-        "ramp": "Nous recommandont d'attribuer 4Go pour faire fonctionner le jeu.",
+        "ramp": "Nous recommandons d'attribuer au moins 4GO pour faire fonctionner le jeu.",
         "ramps": "N'attribuez pas plus que ce que vous avez.",
         "unsaved": "Vous sortez sans sauvergarder les modifications",
-        "unsaveds": "Par defaut, nous sauvegardons vos paramètres."
+        "unsaveds": "Par défaut, nous sauvegardons vos paramètres."
     },
     "title": "Paramètres"
   },
@@ -104,7 +104,7 @@
     "text": {
         "main": "À quoi voulez-vous jouer ?",
         "llaunch": "Dernièr lancement:",
-        "smodules": "Module séléctionné:"
+        "smodules": "Module sélectionné:"
     },
     "title": "Accueil"
   },
