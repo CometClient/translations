@@ -1,0 +1,128 @@
+{
+    "about": {
+      "support": {
+        "name": "Comet Support"
+      },
+      "buttons": {
+        "tos": "ToS",
+        "faq": "FAQ",
+        "privacy": "Privatsphärenpolitik",
+        "logs": "Komet Unterstützung"
+      },
+      "folders": {
+        "fabric": "Fabric Mods",
+        "resource": "Ressourcen pakete",
+        "forge": "Forge Mods",
+        "config": "Konfiguration"
+      },
+      "title": "Über"
+    },
+    "actions": {
+      "copied": "Kopiert",
+      "copy": "Kopier"
+    },
+    "friends": {
+        "filter": {
+            "swear": "Bitte beleidigt nicht!",
+            "racist": "Bitte unterstützt keinen Rassismus.",
+            "blocked": "Dieser Benutzer hat dich blockiert.",
+            "nsfw": "Bitte verhaltet euch angemessen im Chat für alle Altersgruppen."
+        },
+        "info": {
+            "sinvite": "Erfolgreich eine Einladung gesendet.",
+            "rinvite": "hast du Lust zu spielen",
+            "lastseen": "Zuletzt gesehen:",
+            "add": "Füge einen Freund hinzu:",
+            "blocked": "Du hast diesen Benutzer blockiert.",
+            "placeholder": "Probier 'HS50' aus"
+        },
+        "title": "Sozial"
+    },
+    "mods": {
+        "buttons": {
+            "find": "Finde Mods",
+            "add": "Fűge eigene Mods hinzu",
+            "delete": "Entfernen",
+            "enable": "Aktivieren",
+            "disable": "Deaktivieren",
+            "info": "Informationen"
+        },
+        "text": {
+            "by": "von",
+            "downloads": "Downloads",
+            "version": "Version",
+            "description": "Beschreibung",
+            "splaceholder": "Try 'Sodium'"
+        },
+        "title": "Mods"
+    },
+    "settings": {
+        "buttons": {
+            "path": "űberprűfen",
+            "full": "Voller Bildschirm",
+            "hide": "Verstecke das Startprogramm",
+            "open": "Lass das Starprogramm offen",
+            "manual": "Handbuch",
+            "automatic": "automatisch",
+            "rpchide": "Verstecke RPC",
+            "rpcshow": "Zeige RPC",
+            "exit": "Verlassen",
+            "save": "Änderungen speichern"
+    },
+    "headings": {
+        "dir": "Verzeichnis",
+        "res": "Auflősung",
+        "ram": "Arbeitsspeicher-Zuweisung",
+        "launch": "starten",
+        "dmods": "Lade Abhängigkeiten runter",
+        "rpc": "Discord RPC",
+        "lang": "Sprache"
+    },
+    "description": {
+        "dird": "Der Ort wo deine Minecraft-Ordner sind",
+        "resd": "Die Grőße, wenn das Spiel gestartet hat",
+        "ramd": "Der Anteil des Arbeitsspeichers, den du zuteilen willst",
+        "launchd": "Nachdem das Spiel gestartet ist, sollte das Startprogramm:",
+        "modsd": "Die Einstellungen fűr automatisches Herunterladen von Abhängigkeiten",
+        "rpcd": "Ändere die Einstellungen, um RPC zu verstecken/zu zeigen",
+        "langd": "Die Sprache, die das Startprogramm haben soll"
+    },
+    "prompts": {
+        "ramp": "We empfehlen mindestens 4GB zuzuteilen, um zu starten.",
+        "ramps": "Teile nicht mehr zu als du hast.",
+        "unsaved": "Du verlässt mit ungesicherten Veränderungen.",
+        "unsaveds": "Standartmäßig sichern wir eure Einstellungen."
+    },
+    "title": "Einstellungen"
+  },
+  "home": {
+    "buttons": {
+        "launch": "Startprogramm",
+        "launching": "Starten",
+        "launched": "Läuft"
+    },
+    "text": {
+        "main": "Was wűrdest gerne spielen?",
+        "llaunch": "Letztes Startprogramm:",
+        "smodules": "Ausgewähltes Modul:"
+    },
+    "title": "Zuhause"
+  },
+  "account": {
+    "selections": {
+        "select": "Wähle aus",
+        "selected": "Ausgewähltes"
+    },
+    "text": {
+        "add": "Fűge einen anderen Account hinzu"
+    },
+    "title": "Konto Auswahl"
+  },
+  "versions": {
+    "button": {
+        "launch": "Speichern und Starten"
+    },
+    "title": "Versionsauswahl"
+  }
+}
+  
