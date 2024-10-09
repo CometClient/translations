@@ -25,7 +25,7 @@
         "filter": {
             "swear": "Essayez de ne pas insulter.",
             "racist": "Ne faites pas de propos racistes",
-            "blocked": "Cette utilisateur vous a bloqué.",
+            "blocked": "Cet utilisateur vous a bloqué.",
             "nsfw": "Cette discussion doit rester SFW (Sûre pour le travail.)"
         },
         "info": {
@@ -33,7 +33,7 @@
             "rinvite": "voudrais jouer",
             "lastseen": "Vu pour la dernière fois:",
             "add": "Ajouter un ami:",
-            "blocked": "Vous avez bloquer cette utilisateur.",
+            "blocked": "Vous avez bloqué cet utilisateur.",
             "placeholder": "Essayez 'HS50'"
         },
         "title": "Social"
@@ -51,15 +51,15 @@
             "by": "Par",
             "downloads": "Téléchargements",
             "version": "Versions",
-            "description": "Déscription",
+            "description": "Description",
             "splaceholder": "Essayez 'Sodium'"
         },
         "title": "Mods"
     },
     "settings": {
         "buttons": {
-            "path": "Réviser",
-            "full": "Pleine Écran",
+            "path": "Chemin",
+            "full": "Plein Écran",
             "hide": "Cacher le Lanceur",
             "open": "Garder le Lanceur Ouvert",
             "manual": "Manuel",
@@ -74,7 +74,7 @@
         "res": "Resolution",
         "ram": "Attribution de RAM",
         "launch": "Lancement",
-        "dmods": "Téléchargements des Dépendences",
+        "dmods": "Téléchargement des dépendances",
         "rpc": "RPC Discord",
         "lang": "Langue"
     },
@@ -103,7 +103,7 @@
     },
     "text": {
         "main": "À quoi voulez-vous jouer ?",
-        "llaunch": "Dernièr lancement:",
+        "llaunch": "Dernier lancement:",
         "smodules": "Module sélectionné:"
     },
     "title": "Accueil"
@@ -120,7 +120,7 @@
   },
   "versions": {
     "button": {
-        "launch": "Sauvergarder et Lancer"
+        "launch": "Sauvegarder et lancer"
     },
     "title": "Sélecteur de Version"
   }
